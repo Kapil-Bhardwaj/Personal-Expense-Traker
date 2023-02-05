@@ -1,16 +1,19 @@
 # karcha_tracker
 
-A new Flutter project.
+To keep track of your all daily needs.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Some screenshots of work
 
-A few resources to get you started if this is your first Flutter project:
+## Main Screen
+<img width="342" alt="Screenshot 2023-02-05 at 7 40 58 AM" src="https://user-images.githubusercontent.com/91521935/216798705-d715658b-391a-411d-b874-fcd55ebfb316.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Add Transaction 
+<img width="345" alt="Screenshot 2023-02-05 at 7 42 47 AM" src="https://user-images.githubusercontent.com/91521935/216798717-826bcf8b-c8b6-4c65-b8ce-f779a1e45291.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## choose date
+<img width="1101" alt="Screenshot 2023-02-05 at 7 44 26 AM" src="https://user-images.githubusercontent.com/91521935/216798735-bcd453a6-01cc-4a39-a27d-a6bbc624e826.png">
+
+## Highly Responsive and Dynamic in nature
+<img width="1091" alt="Screenshot 2023-02-05 at 7 43 33 AM" src="https://user-images.githubusercontent.com/91521935/216798756-32531f8d-6d62-49ab-ab61-014f16227408.png">
+<img width="1098" alt="Screenshot 2023-02-05 at 7 43 58 AM" src="https://user-images.githubusercontent.com/91521935/216798758-a8d1eddf-8b13-46f2-bb0f-cc843a32cb81.png">
